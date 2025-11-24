@@ -1,3 +1,1 @@
 # demo_drr
-
-test
